@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grimsbyelectricalpros.ca/sitemap-index.xml
